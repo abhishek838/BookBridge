@@ -1,0 +1,89 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm build' or 'yarn build'
+build/
+
+# Runtime files
+.pids
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary files
+.tmp/
+
+# Local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# misc
+.babelrc.js
+.yarn/
+.pnp/
+.pnp.js
+.cache/
+.next/
+.nuxt/
+.vuepress/dist
+.serverless/
+.fusebox/
+.parcel-cache/
+
+# Coverage directory
+coverage/
+
+# Test results
+*.tap
+*.xml
+*.html
+
+# Production build
+/build
+
+# Local development server
+/dist
+
+# Other
+.env
+.env.development
+.env.production
+.env.test
+
+# yarn lock file
+yarn.lock
+
+# npm package-lock.json
+package-lock.json
