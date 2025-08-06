@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.b351ef21.css",
-    "main.js": "./static/js/main.96fb4623.js",
-    "index.html": "./index.html",
-    "main.b351ef21.css.map": "./static/css/main.b351ef21.css.map",
-    "main.96fb4623.js.map": "./static/js/main.96fb4623.js.map"
+    "main.css": "/BookBridge/static/css/main.b351ef21.css",
+    "main.js": "/BookBridge/static/js/main.96fb4623.js",
+    "index.html": "/BookBridge/index.html",
+    "main.b351ef21.css.map": "/BookBridge/static/css/main.b351ef21.css.map",
+    "main.96fb4623.js.map": "/BookBridge/static/js/main.96fb4623.js.map"
   },
   "entrypoints": [
     "static/css/main.b351ef21.css",
