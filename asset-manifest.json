@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bookbridge-10/static/css/main.b351ef21.css",
+    "main.js": "/bookbridge-10/static/js/main.96fb4623.js",
+    "index.html": "/bookbridge-10/index.html",
+    "main.b351ef21.css.map": "/bookbridge-10/static/css/main.b351ef21.css.map",
+    "main.96fb4623.js.map": "/bookbridge-10/static/js/main.96fb4623.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b351ef21.css",
+    "static/js/main.96fb4623.js"
+  ]
+}
